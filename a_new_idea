@@ -1,0 +1,6 @@
+
+# create synthetic data
+
+````{R}
+new_data <- rep(2, 5)
+````
